@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="background-color:dodgerblue;">Hello world</h1>
+
+<p style="background-color: tomato;">
+lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
+euismod tincidunt ut laoreet dolore megna aliquam erat volutpat.
+ut wisi enim ad minim veniam,quis nostrud exerci tation ullamcorper suscipit 
+lobortis nisi ut aliquip ex ea commodo consequat.
+</p>
+
+</body>
+</html>
